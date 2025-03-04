@@ -13,6 +13,6 @@ I am particularly drawn to the data analytics industry because it aligns with my
 
 Feel free to download my CV [here](https://github.com/user-attachments/files/19067226/Data.Tech.CV.pdf)
 
-Porfolio on Google Sites
+Porfolio on <a href="https://sites.google.com/view/adambouzgan?usp=sharing" target="_blank"> Google Sites</a>
 
 Back to [Welcome page](https://adambouzgan.github.io/Welcome-To-My-Portfolio/)
