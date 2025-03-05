@@ -6,7 +6,8 @@
 <img  width="220" alt="Screenshot 2025-02-26 at 14 47 14" src="https://github.com/user-attachments/assets/99a32113-c56b-4be5-9b00-e8412f3edf75" />
 </div>
 
-# 
+##
+
 With a strong academic background in Mathematics from King’s College London and experience in data analysis, problem-solving, and business operations, I am eager to contribute my skills to your team. Many of my university modules involved group projects, which enhanced my teamwork and communication skills, as I regularly collaborated with peers to tackle complex problems.
 Beyond my academic studies, I have gained valuable real-world experience through running an independent business reselling luxury goods and services. Managing high sales volumes—up to 40–50 transactions per day—required me to liaise with manufacturers, oversee logistics, and ensure efficient product distribution.
 Additionally, I completed a virtual investment banking internship, where I developed skills in company valuation, financial modelling, and data analysis. 
